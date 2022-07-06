@@ -1,2 +1,2 @@
 # XPU-Programming
-simple code for kunlun2 programming
+simple code for kunlun programming
